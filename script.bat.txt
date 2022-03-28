@@ -1,0 +1,10 @@
+cd c:\ exemplo
+echo "Criando pasta! Aguarde"
+timeout /t 5
+md outros
+echo "teste de arquivo - serra tec 2022/1" > arquivo6.txt
+md outros-exemplos
+echo"Teste de arquivo - Serra tec 2022" > arquivo7.txt
+timeout /t 10
+echo "Fim fim"
+
